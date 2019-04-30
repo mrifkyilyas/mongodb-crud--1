@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-crud-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrifkyilyas/mongodb-crud-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrifkyilyas/mongodb-crud-1/issues"
+  },
+  "homepage": "https://github.com/mrifkyilyas/mongodb-crud-1#readme"
+}
